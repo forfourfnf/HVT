@@ -1,22 +1,68 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
-	],
-	
-	"weekCharacters": [
-		"mom",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+  "storyName": "Bonus Songs",
+  "difficulties": "hard",
+  "hideFreeplay": false,
+  "weekBackground": "antipathy",
+  "weekBefore": "antipathyweek evil",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "startUnlocked": false,
+  "hideStoryMode": true,
+  "songs": [
+    [
+      "trainheck",
+      "tricky-old",
+      [
+        226,
+        0,
+        0
+      ]
+    ],
+    [
+      "standing-here",
+      "tricky",
+      [
+        226,
+        0,
+        0
+      ]
+    ],
+    [
+      "argument",
+      "hank-average",
+      [
+        226,
+        0,
+        0
+      ]
+    ],
+    [
+      "my-mother",
+      "hank",
+      [
+        226,
+        0,
+        0
+      ]
+    ],
+    [
+      "marrie-me",
+      "hank-old",
+      [
+        226,
+        0,
+        0
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "hiddenUntilUnlocked": false,
+  "weekName": "BonusSongs"
 }
