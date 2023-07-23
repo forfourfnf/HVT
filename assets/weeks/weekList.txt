@@ -1,5 +1,5 @@
 tutorial
-antipathyweek
-antipathyweek evil
-bonuses
-memes
+week1
+week2
+week3
+week4
