@@ -1,0 +1,58 @@
+{
+  "storyName": "Daddy Dearest",
+  "difficulties": "Hard,Mad,Screwed",
+  "hideFreeplay": false,
+  "weekBackground": "stage",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "weekBefore": "",
+  "startUnlocked": true,
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "songs": [
+    [
+      "Battered",
+      "dad",
+      [
+        226,
+        0,
+        0
+      ]
+    ],
+    [
+      "Overdrive",
+      "dad",
+      [
+        215,
+        0,
+        0
+      ]
+    ],
+    [
+      "Trainwreck",
+      "monster",
+      [
+        226,
+        0,
+        0
+      ]
+    ],
+    [
+      "Lockjaw",
+      "senpai",
+      [
+        226,
+        0,
+        0
+      ]
+    ]
+  ],
+  "hideStoryMode": false,
+  "weekName": "Week 1"
+}

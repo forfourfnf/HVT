@@ -1,0 +1,58 @@
+{
+  "storyName": "ANTIPATHY",
+  "difficulties": "Hard,Mad,Fucked",
+  "hideFreeplay": false,
+  "weekBackground": "antipathy",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "weekBefore": "",
+  "startUnlocked": true,
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "songs": [
+    [
+      "Battered-evil",
+      "hank-old",
+      [
+        226,
+        0,
+        0
+      ]
+    ],
+    [
+      "Overdrive-evil",
+      "hank-old",
+      [
+        215,
+        0,
+        0
+      ]
+    ],
+    [
+      "Trainwreck-evil",
+      "hank",
+      [
+        226,
+        0,
+        0
+      ]
+    ],
+    [
+      "Lockjaw-evil",
+      "grunthorror",
+      [
+        226,
+        0,
+        0
+      ]
+    ]
+  ],
+  "hideStoryMode": false,
+  "weekName": "Antipathy"
+}
