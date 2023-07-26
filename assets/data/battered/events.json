@@ -1,9 +1,9 @@
 {
 	"song": {
 		"speed": 2.7,
-		"stage": "nevada",
+		"stage": "stage",
 		"player1": "bf",
-		"player2": "hank",
+		"player2": "dad",
 		"player3": null,
 		"events": [
 			[
@@ -90,7 +90,7 @@
 		"notes": [],
 		"splashSkin": null,
 		"validScore": false,
-		"gfVersion": "gf-anti",
+		"gfVersion": "gf",
 		"bpm": 170,
 		"arrowSkin": null,
 		"needsVoices": true,
