@@ -1,58 +1,22 @@
 {
-  "storyName": "ANTIPATHY (Grunt Edition)",
-  "difficulties": "",
-  "hideFreeplay": false,
-  "weekBackground": "halloween",
-  "freeplayColor": [
-    146,
-    113,
-    253
-  ],
-  "weekBefore": "",
-  "startUnlocked": true,
-  "weekCharacters": [
-    "",
-    "",
-    ""
-  ],
-  "songs": [
-    [
-      "South",
-      "dad",
-      [
-        226,
-        0,
-        0
-      ]
-    ],
-    [
-      "Monster",
-      "dad",
-      [
-        215,
-        0,
-        0
-      ]
-    ],
-    [
-      "Pico",
-      "spooky",
-      [
-        226,
-        0,
-        0
-      ]
-    ],
-    [
-      "Philly Nice",
-      "grunthorror",
-      [
-        226,
-        0,
-        0
-      ]
-    ]
-  ],
-  "hideStoryMode": false,
-  "weekName": "Antipathy"
+	"songs": [
+		["Spookeez", "spooky", [34, 51, 68]],
+		["South", "spooky", [34, 51, 68]],
+		["Monster", "monster", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "Spooky Month",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
 }

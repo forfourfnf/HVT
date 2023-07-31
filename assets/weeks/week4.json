@@ -1,68 +1,22 @@
 {
-  "storyName": "Memes",
-  "difficulties": "",
-  "hideFreeplay": false,
-  "weekBackground": "limo",
-  "weekBefore": "antipathyweek evil",
-  "freeplayColor": [
-    146,
-    113,
-    253
-  ],
-  "startUnlocked": false,
-  "hideStoryMode": true,
-  "songs": [
-    [
-      "MILF",
-      "tricky-old",
-      [
-        226,
-        0,
-        0
-      ]
-    ],
-    [
-      "Cocoa",
-      "tricky",
-      [
-        226,
-        0,
-        0
-      ]
-    ],
-    [
-      "Eggnog",
-      "hank-average",
-      [
-        226,
-        0,
-        0
-      ]
-    ],
-    [
-      "Winter Horrorland",
-      "hank",
-      [
-        226,
-        0,
-        0
-      ]
-    ],
-    [
-      "Senpai",
-      "hank-old",
-      [
-        226,
-        0,
-        0
-      ]
-    ]
-  ],
-  "weekCharacters": [
-    "",
-    "",
-    ""
-  ],
-  "hiddenUntilUnlocked": false,
-  "weekName": "BonusSongs"
+	"songs": [
+		["Satin Panties", "mom", [252, 150, 215]],
+		["High", "mom", [252, 150, 215]],
+		["Milf", "mom", [252, 150, 215]]
+	],
+	
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "limo",
+
+	"storyName": "MOMMY MUST MURDER",
+	"weekBefore": "week3",
+	"weekName": "Week 4",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
 }

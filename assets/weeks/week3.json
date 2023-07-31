@@ -1,50 +1,22 @@
 {
-  "storyName": "Bonus Songs",
-  "difficulties": "",
-  "hideFreeplay": false,
-  "weekBackground": "philly",
-  "weekBefore": "antipathyweek",
-  "freeplayColor": [
-    146,
-    113,
-    253
-  ],
-  "startUnlocked": false,
-  "hideStoryMode": true,
-  "songs": [
-    [
-      "Blammed",
-      "hank",
-      [
-        226,
-        0,
-        0
-      ]
-    ],
-    [
-      "Satin Panties",
-      "tricky",
-      [
-        226,
-        0,
-        0
-      ]
-    ],
-    [
-      "High",
-      "yabhank",
-      [
-        226,
-        0,
-        0
-      ]
-    ]
-  ],
-  "weekCharacters": [
-    "",
-    "",
-    ""
-  ],
-  "hiddenUntilUnlocked": false,
-  "weekName": "BonusSongs"
+	"songs": [
+		["Pico", "pico", [148, 22, 83]],
+		["Philly Nice", "pico", [148, 22, 83]],
+		["Blammed", "pico", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "philly",
+
+	"storyName": "PICO",
+	"weekBefore": "week2",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
 }
