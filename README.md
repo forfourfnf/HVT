@@ -10,13 +10,13 @@ dad battle - trainwreck
 
 spookeez - lockjaw
 
-south - battered
+south - battered (Grunt Edition)
 
-monster - overdrive
+monster - overdrive (Grunt Edition)
 
-pico - trainwreck
+pico - trainwreck (Grunt Edition)
 
-philly nice - lockjaw
+philly nice - lockjaw (Grunt Edition)
 
 blammed - accelerant
 
