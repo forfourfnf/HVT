@@ -2,152 +2,88 @@
 	"animations": [
 		{
 			"offsets": [
-				3,
-				0
+				-101,
+				-53
 			],
 			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "monster idle",
-			"indices": []
+			"indices": [],
+			"name": "hank pose idle"
 		},
 		{
 			"offsets": [
-				-20,
-				94
+				-140,
+				120
 			],
 			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "monster up note",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-30,
-				20
-			],
-			"loop": false,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Monster left note",
-			"indices": []
+			"indices": [],
+			"name": "hank pose left"
 		},
 		{
 			"offsets": [
-				-51,
-				30
+				64,
+				-72
 			],
 			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Monster Right note",
-			"indices": []
+			"indices": [],
+			"name": "hank pose right"
 		},
 		{
 			"offsets": [
-				-50,
-				-80
+				-72,
+				-152
 			],
 			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
+			"indices": [],
+			"name": "hank pose down"
+		},
+		{
+			"offsets": [
+				72,
+				128
+			],
+			"loop": false,
 			"fps": 24,
-			"name": "monster down",
+			"anim": "singUP",
+			"indices": [],
+			"name": "hank pose up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-275,
+				-66
+			],
+			"anim": "attack1",
+			"fps": 16,
+			"name": "hank pose attack",
 			"indices": []
-		},
-		{
-			"offsets": [
-				3,
-				0
-			],
-			"indices": [
-				12,
-				13,
-				14
-			],
-			"fps": 24,
-			"anim": "idle-loop",
-			"loop": true,
-			"name": "monster idle"
-		},
-		{
-			"offsets": [
-				-30,
-				20
-			],
-			"indices": [
-				17,
-				18,
-				19
-			],
-			"fps": 24,
-			"anim": "singLEFT-loop",
-			"loop": true,
-			"name": "Monster left note"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [
-				21,
-				22,
-				23
-			],
-			"fps": 24,
-			"anim": "singUP-loop",
-			"loop": true,
-			"name": "monster up note"
-		},
-		{
-			"offsets": [
-				-51,
-				30
-			],
-			"indices": [
-				12,
-				13,
-				14
-			],
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"loop": true,
-			"name": "Monster Right note"
-		},
-		{
-			"offsets": [
-				-50,
-				-80
-			],
-			"indices": [
-				27,
-				28,
-				29
-			],
-			"fps": 24,
-			"anim": "singDOWN-loop",
-			"loop": true,
-			"name": "monster down"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Monster_Assets",
 	"position": [
-		0,
-		100
+		-260,
+		40
 	],
 	"healthicon": "monster",
 	"flip_x": false,
 	"healthbar_colors": [
-		243,
 		255,
-		110
-	],
-	"camera_position": [
 		0,
 		0
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"camera_position": [
+		220,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
 }
