@@ -7347,6 +7347,26 @@
 				"mustHitSection": true,
 				"changeBPM": false,
 				"bpm": 100
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"gfVersion": "bf-car",
@@ -8327,7 +8347,7 @@
 				]
 			]
 		],
-		"player3": null,
+		"player3": "bf-car",
 		"initialSpeed": 1.125,
 		"sliderVelocities": null,
 		"song": "Spookeez",
