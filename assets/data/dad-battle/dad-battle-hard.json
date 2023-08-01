@@ -38,13 +38,13 @@
 				[
 					[
 						"Play Animation",
-						"Pibby Instakill",
-						"senpai"
+						"Bullet",
+						"bf"
 					],
 					[
 						"Play Animation",
 						"Sword2",
-						"spooky"
+						"dad"
 					]
 				]
 			],
@@ -64,12 +64,12 @@
 					[
 						"Play Animation",
 						"Sword2",
-						"spooky"
+						"dad"
 					],
 					[
 						"Play Animation",
 						"hurt",
-						"senpai"
+						"bf"
 					]
 				]
 			],
@@ -1052,7 +1052,7 @@
 						22800,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						23700,
@@ -1462,7 +1462,7 @@
 						32400,
 						6,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						33450,
@@ -1539,19 +1539,19 @@
 						33600,
 						4,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						34650,
 						4,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						34050,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					]
 				],
 				"altAnim": false,
@@ -1736,19 +1736,19 @@
 						38400,
 						3,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						38400,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						38400,
 						2,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					]
 				],
 				"altAnim": false,
@@ -1987,13 +1987,13 @@
 						42600,
 						2,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						42600,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					]
 				],
 				"altAnim": false,
@@ -2295,13 +2295,13 @@
 						47400,
 						6,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						47400,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						47700,
@@ -2446,7 +2446,7 @@
 						50100,
 						7,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						49575,
@@ -2965,13 +2965,13 @@
 						57600,
 						7,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						57600,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -3547,7 +3547,7 @@
 						76800,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					]
 				],
 				"altAnim": false,
@@ -3616,25 +3616,25 @@
 						80400,
 						2,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						80850,
 						2,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						80850,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						81300,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						80700,
@@ -3650,13 +3650,13 @@
 						81300,
 						0,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						80400,
 						3,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					]
 				],
 				"altAnim": false,
@@ -3736,13 +3736,13 @@
 						83700,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						83700,
 						3,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						83475,
@@ -3847,13 +3847,13 @@
 						85800,
 						2,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						85800,
 						3,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						86100,
@@ -3887,7 +3887,7 @@
 						86400,
 						0,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						87000,
@@ -3961,25 +3961,25 @@
 						90000,
 						2,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						90450,
 						2,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						90450,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						90900,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						90300,
@@ -3995,13 +3995,13 @@
 						90000,
 						3,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						90900,
 						0,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					]
 				],
 				"altAnim": false,
@@ -4076,13 +4076,13 @@
 						93300,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						93300,
 						3,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						92400,
@@ -4456,13 +4456,13 @@
 						100800,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						100800,
 						7,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						100800,
@@ -4523,13 +4523,13 @@
 						102600,
 						6,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						102600,
 						4,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						102600,
@@ -4648,13 +4648,13 @@
 						105300,
 						6,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						105300,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						105000,
@@ -4885,13 +4885,13 @@
 						110400,
 						7,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						110400,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						110400,
@@ -4942,13 +4942,13 @@
 						112200,
 						6,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						112200,
 						4,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						111750,
@@ -5077,13 +5077,13 @@
 						114900,
 						6,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						114900,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						114075,
@@ -5158,13 +5158,13 @@
 						115650,
 						3,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						115650,
 						2,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						116100,
@@ -5199,13 +5199,13 @@
 						116550,
 						7,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						116550,
 						6,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						116700,
@@ -5244,25 +5244,25 @@
 						117600,
 						0,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						117600,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						117600,
 						2,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						117600,
 						3,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						118050,
@@ -5847,13 +5847,13 @@
 						136350,
 						3,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						136350,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					]
 				],
 				"altAnim": false,
@@ -5921,13 +5921,13 @@
 						137400,
 						0,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						137400,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					]
 				],
 				"altAnim": false,
@@ -5979,13 +5979,13 @@
 						138000,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						138000,
 						0,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						138450,
@@ -6009,7 +6009,7 @@
 						139050,
 						3,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						138450,
@@ -6094,13 +6094,13 @@
 						139200,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						139200,
 						6,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					]
 				],
 				"altAnim": false,
@@ -6322,25 +6322,25 @@
 						144000,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						144000,
 						6,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						144900,
 						4,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						144900,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						144000,
@@ -6436,13 +6436,13 @@
 						145950,
 						7,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						145950,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						145950,
@@ -6512,13 +6512,13 @@
 						147000,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						147000,
 						4,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						146400,
@@ -6598,13 +6598,13 @@
 						147600,
 						6,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						147600,
 						7,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						147600,
@@ -6685,7 +6685,7 @@
 						153600,
 						1,
 						75,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					]
 				],
 				"altAnim": false,
@@ -7345,19 +7345,19 @@
 						168000,
 						2,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						168000,
 						0,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						168000,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					]
 				],
 				"altAnim": false,
@@ -7571,13 +7571,13 @@
 						172350,
 						5,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						172350,
 						4,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						172350,
@@ -7656,13 +7656,13 @@
 						172800,
 						2,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						172800,
 						1,
 						0,
-						"Pibby Instakill Note"
+						"Bullet Note"
 					],
 					[
 						172800,
@@ -7943,11 +7943,11 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf-train",
+		"gfVersion": "gf-christmas",
 		"player3": null,
 		"splashSkin": "noteSplashes",
-		"song": "Trainwreck",
-		"stage": "train",
+		"song": "Dad Battle",
+		"stage": "school",
 		"validScore": true,
 		"arrowSkin": "",
 		"needsVoices": true,

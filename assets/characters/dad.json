@@ -2,139 +2,154 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				10
+				-2,
+				1
 			],
 			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Anti-Hank Idle"
+		},
+		{
+			"offsets": [
+				-80,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Anti-Hank M RIGHT"
+		},
+		{
+			"offsets": [
+				22,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Anti-Hank M DOWN"
+		},
+		{
+			"offsets": [
+				61,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Anti-Hank M UP"
+		},
+		{
+			"offsets": [
+				-296,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block",
+			"indices": [],
+			"name": "Anti-Hank Block"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				4
+			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"name": "ANTI-Hank M LEFT",
 			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				-30
-			],
-			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Dad Sing Note DOWN",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-6,
-				50
-			],
-			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Dad Sing Note UP",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				27
-			],
-			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"anim": "idle",
-			"fps": 24,
-			"name": "Dad idle dance",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
 			"loop": true,
+			"offsets": [
+				62,
+				83
+			],
+			"anim": "singUP-loop",
 			"fps": 24,
-			"anim": "idle-loop",
+			"name": "Anti-Hank M UP",
 			"indices": [
 				10,
 				11,
 				12,
-				12
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				22,
+				5
 			],
-			"name": "Dad idle dance"
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Anti-Hank M DOWN",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-80,
+				-53
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Anti-Hank M RIGHT",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
 		},
 		{
 			"offsets": [
-				-9,
+				43,
+				3
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
 				10
 			],
-			"loop": true,
 			"fps": 24,
 			"anim": "singLEFT-loop",
-			"indices": [
-				12,
-				13,
-				14,
-				15
-			],
-			"name": "Dad Sing Note LEFT"
-		},
-		{
-			"offsets": [
-				0,
-				27
-			],
 			"loop": true,
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"indices": [
-				15,
-				16,
-				17,
-				18
-			],
-			"name": "Dad Sing Note RIGHT"
-		},
-		{
-			"offsets": [
-				-6,
-				50
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singUP-loop",
-			"indices": [
-				56,
-				57,
-				58,
-				59
-			],
-			"name": "Dad Sing Note UP"
+			"name": "ANTI-Hank M LEFT"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/DADDY_DEAREST",
 	"position": [
-		0,
-		0
+		-290,
+		70
 	],
 	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		24,
+		21,
+		40
 	],
 	"camera_position": [
-		0,
+		160,
 		0
 	],
 	"sing_duration": 6.1,

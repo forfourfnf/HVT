@@ -1,22 +1,68 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
-	],
-	
-	"weekCharacters": [
-		"mom",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+  "storyName": "Memes",
+  "difficulties": "Hard",
+  "hideFreeplay": false,
+  "weekBackground": "stage",
+  "weekBefore": "week3",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "startUnlocked": false,
+  "hideStoryMode": true,
+  "songs": [
+    [
+      "Milf",
+      "tord",
+      [
+        226,
+        0,
+        0
+      ]
+    ],
+    [
+      "Cocoa",
+      "spooky",
+      [
+        226,
+        0,
+        0
+      ]
+    ],
+    [
+      "Eggnog",
+      "parents",
+      [
+        226,
+        0,
+        0
+      ]
+    ],
+    [
+      "Winter Horrorland",
+      "dad",
+      [
+        226,
+        0,
+        0
+      ]
+    ],
+    [
+      "Senpai",
+      "tankman",
+      [
+        226,
+        0,
+        0
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "hiddenUntilUnlocked": false,
+  "weekName": "Week 4"
 }
