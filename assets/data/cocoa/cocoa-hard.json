@@ -1,1 +1,1743 @@
-{"song":{"song":"Cocoa","bpm":100.0,"needsVoices":true,"player1":"bf-christmas","player2":"parents-christmas","speed":1.5,"notes":[{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[0.0,0,0.0],[600.0,2,0.0],[900.0,0,0.0],[1350.0,1,0.0],[1650.0,3,0.0],[1950.0,1,0.0],[2100.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[2400.0,0,0.0],[3000.0,2,0.0],[3300.0,0,0.0],[3750.0,1,0.0],[4050.0,3,0.0],[4350.0,1,0.0],[4500.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[4800.0,0,0.0],[4950.0,3,0.0],[5100.0,0,0.0],[5250.0,3,0.0],[5400.0,2,0.0],[5700.0,0,0.0],[5850.0,3,0.0],[6000.0,0,0.0],[6150.0,3,0.0],[6300.0,2,0.0],[6600.0,0,0.0],[6750.0,3,0.0],[6900.0,0,0.0],[7050.0,3,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[7200.0,2,0.0],[7500.0,0,0.0],[7650.0,3,0.0],[7800.0,0,0.0],[7950.0,3,0.0],[8100.0,2,0.0],[8400.0,0,0.0],[8550.0,3,0.0],[8700.0,0,0.0],[8850.0,3,0.0],[9000.0,2,0.0],[9300.0,1,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[9600.0,0,0.0],[10200.0,2,0.0],[10500.0,0,0.0],[10950.0,1,0.0],[11250.0,3,0.0],[11550.0,1,0.0],[11700.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[12000.0,0,0.0],[12600.0,2,0.0],[12900.0,0,0.0],[13350.0,1,0.0],[13650.0,3,0.0],[13950.0,1,0.0],[14100.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[14400.0,0,0.0],[14550.0,3,0.0],[14700.0,0,0.0],[14850.0,3,0.0],[15000.0,2,0.0],[15300.0,0,0.0],[15450.0,3,0.0],[15600.0,0,0.0],[15750.0,3,0.0],[15900.0,2,0.0],[16200.0,0,0.0],[16350.0,3,0.0],[16500.0,0,0.0],[16650.0,3,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[16800.0,2,0.0],[17100.0,0,0.0],[17250.0,3,0.0],[17400.0,0,0.0],[17550.0,3,0.0],[17700.0,2,0.0],[18000.0,0,0.0],[18150.0,3,0.0],[18300.0,0,0.0],[18450.0,3,0.0],[18600.0,2,0.0],[18900.0,1,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[19500.0,3,150.0],[19800.0,1,450.0],[20400.0,2,1050.0]],"altAnim":true},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[22500.0,1,0.0],[22650.0,3,0.0],[22800.0,0,150.0],[23100.0,1,0.0],[23400.0,3,0.0],[23700.0,1,0.0]],"altAnim":true},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[24000.0,0,0.0],[24150.0,3,0.0],[24300.0,0,0.0],[24450.0,3,0.0],[24600.0,2,0.0],[24900.0,0,0.0],[25050.0,3,0.0],[25200.0,0,0.0],[25350.0,3,0.0],[25500.0,2,0.0],[25800.0,0,0.0],[25950.0,3,0.0],[26100.0,0,0.0],[26250.0,3,0.0]],"altAnim":true},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[26400.0,2,0.0],[26700.0,0,0.0],[26850.0,3,0.0],[27000.0,0,0.0],[27150.0,3,0.0],[27300.0,2,0.0],[27600.0,0,0.0],[27750.0,3,0.0],[27900.0,0,0.0],[28050.0,3,0.0],[28200.0,2,0.0],[28500.0,1,0.0]],"altAnim":true},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[28800.0,6,600.0],[29100.0,3,150.0],[29400.0,1,450.0],[30000.0,2,1050.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[32100.0,1,0.0],[32250.0,3,0.0],[32400.0,0,150.0],[32700.0,1,0.0],[33000.0,3,0.0],[33300.0,1,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[33600.0,0,0.0],[33750.0,3,0.0],[33900.0,0,0.0],[34050.0,3,0.0],[34200.0,2,0.0],[34500.0,0,0.0],[34650.0,3,0.0],[34800.0,0,0.0],[34950.0,3,0.0],[35100.0,2,0.0],[35400.0,0,0.0],[35550.0,3,0.0],[35700.0,0,0.0],[35850.0,3,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[36000.0,2,0.0],[36300.0,0,0.0],[36450.0,3,0.0],[36600.0,0,0.0],[36750.0,3,0.0],[36900.0,2,0.0],[37200.0,0,0.0],[37350.0,3,0.0],[37500.0,0,0.0],[37650.0,3,0.0],[37800.0,2,0.0],[38100.0,1,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[39000.0,0,0.0],[39150.0,1,0.0],[39450.0,3,0.0],[39750.0,3,0.0],[40050.0,2,0.0],[40200.0,3,0.0],[40500.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[40800.0,1,0.0],[41400.0,0,0.0],[41550.0,1,0.0],[41850.0,3,0.0],[42150.0,3,0.0],[42450.0,2,0.0],[42600.0,3,0.0],[42900.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[43200.0,1,0.0],[43800.0,0,0.0],[43950.0,1,0.0],[44250.0,3,0.0],[44550.0,3,0.0],[44850.0,2,0.0],[45000.0,3,0.0],[45300.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[45600.0,0,0.0],[45750.0,3,0.0],[46050.0,0,0.0],[46200.0,3,0.0],[46500.0,0,0.0],[46650.0,3,0.0],[46950.0,0,0.0],[47100.0,3,0.0],[47400.0,0,0.0],[47550.0,3,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[48600.0,0,0.0],[48750.0,1,0.0],[49050.0,3,0.0],[49350.0,3,0.0],[49650.0,2,0.0],[49800.0,3,0.0],[50100.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[50400.0,1,0.0],[51000.0,0,0.0],[51150.0,1,0.0],[51450.0,3,0.0],[51750.0,3,0.0],[52050.0,2,0.0],[52200.0,3,0.0],[52500.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[52800.0,1,0.0],[53400.0,0,0.0],[53550.0,1,0.0],[53850.0,3,0.0],[54150.0,3,0.0],[54450.0,2,0.0],[54600.0,3,0.0],[54900.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[55200.0,0,0.0],[55350.0,3,0.0],[55650.0,0,0.0],[55800.0,3,0.0],[56100.0,0,0.0],[56250.0,3,0.0],[56550.0,0,0.0],[56700.0,3,0.0],[57000.0,0,0.0],[57150.0,3,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[57750.0,0,0.0],[57900.0,1,0.0],[58050.0,0,0.0],[58200.0,2,450.0],[58800.0,3,450.0],[59400.0,2,150.0],[59700.0,0,750.0]],"altAnim":true},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[60600.0,2,300.0],[61200.0,3,450.0],[61800.0,2,450.0]],"altAnim":true},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[62400.0,0,0.0],[62550.0,3,0.0],[62700.0,0,0.0],[62850.0,3,0.0],[63000.0,2,0.0],[63300.0,0,0.0],[63450.0,3,0.0],[63600.0,0,0.0],[63750.0,3,0.0],[63900.0,2,0.0],[64200.0,0,0.0],[64350.0,3,0.0],[64500.0,0,0.0],[64650.0,3,0.0]],"altAnim":true},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[64800.0,2,0.0],[65100.0,0,0.0],[65250.0,3,0.0],[65400.0,0,0.0],[65550.0,3,0.0],[65700.0,2,0.0],[66000.0,0,0.0],[66150.0,3,0.0],[66300.0,0,0.0],[66450.0,3,0.0],[66600.0,2,0.0],[66900.0,1,0.0]],"altAnim":true},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[67350.0,0,0.0],[67500.0,1,0.0],[67650.0,0,0.0],[67800.0,2,450.0],[68400.0,3,450.0],[69000.0,2,150.0],[69300.0,0,750.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[70200.0,2,300.0],[70800.0,3,450.0],[71400.0,2,450.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[72000.0,0,0.0],[72150.0,3,0.0],[72300.0,0,0.0],[72450.0,3,0.0],[72600.0,2,0.0],[72900.0,0,0.0],[73050.0,3,0.0],[73200.0,0,0.0],[73350.0,3,0.0],[73500.0,2,0.0],[73800.0,0,0.0],[73950.0,3,0.0],[74100.0,0,0.0],[74250.0,3,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[74400.0,2,0.0],[74700.0,0,0.0],[74850.0,3,0.0],[75000.0,0,0.0],[75150.0,3,0.0],[75300.0,2,0.0],[75600.0,0,0.0],[75750.0,3,0.0],[75900.0,0,0.0],[76050.0,3,0.0],[76200.0,2,0.0],[76500.0,1,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[76800.0,0,0.0],[77400.0,2,0.0],[77700.0,0,0.0],[78150.0,1,0.0],[78450.0,3,0.0],[78750.0,1,0.0],[78900.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[79200.0,0,0.0],[79800.0,2,0.0],[80100.0,0,0.0],[80550.0,1,0.0],[80850.0,3,0.0],[81150.0,1,0.0],[81300.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[81600.0,0,0.0],[82200.0,2,0.0],[82500.0,0,0.0],[82950.0,1,0.0],[83250.0,3,0.0],[83550.0,1,0.0],[83700.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[84000.0,0,0.0],[84600.0,2,0.0],[84900.0,0,0.0],[85350.0,1,0.0],[85650.0,3,0.0],[85950.0,1,0.0],[86100.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[86400.0,0,0.0],[86550.0,1,0.0],[86700.0,3,0.0],[86850.0,1,0.0],[87000.0,0,0.0],[87150.0,1,0.0],[87300.0,3,0.0],[87450.0,2,0.0],[87600.0,0,0.0],[87750.0,1,0.0],[87900.0,3,0.0],[88050.0,1,0.0],[88200.0,0,0.0],[88350.0,1,0.0],[88500.0,3,0.0],[88650.0,2,0.0]],"altAnim":true},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[88800.0,0,0.0],[88950.0,1,0.0],[89100.0,3,0.0],[89250.0,1,0.0],[89400.0,0,0.0],[89550.0,1,0.0],[89700.0,3,0.0],[89850.0,2,0.0],[90000.0,3,0.0],[90150.0,0,0.0],[90300.0,3,0.0],[90450.0,1,0.0],[90600.0,3,0.0],[90750.0,1,0.0],[90900.0,2,0.0],[91050.0,0,0.0]],"altAnim":true},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[91200.0,0,0.0],[91350.0,1,0.0],[91500.0,3,0.0],[91650.0,1,0.0],[91800.0,0,0.0],[91950.0,1,0.0],[92100.0,3,0.0],[92250.0,2,0.0],[92400.0,0,0.0],[92550.0,1,0.0],[92700.0,3,0.0],[92850.0,1,0.0],[93000.0,0,0.0],[93150.0,1,0.0],[93300.0,3,0.0],[93450.0,2,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[93600.0,0,0.0],[93750.0,1,0.0],[93900.0,3,0.0],[94050.0,1,0.0],[94200.0,0,0.0],[94350.0,1,0.0],[94500.0,3,0.0],[94650.0,2,0.0],[94800.0,3,0.0],[94950.0,0,0.0],[95100.0,3,0.0],[95250.0,1,0.0],[95400.0,3,0.0],[95550.0,1,0.0],[95700.0,2,0.0],[95850.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[96000.0,0,0.0],[96150.0,1,0.0],[96300.0,3,0.0],[96450.0,1,0.0],[96600.0,0,0.0],[96750.0,1,0.0],[96900.0,3,0.0],[97050.0,2,0.0],[97200.0,0,0.0],[97350.0,1,0.0],[97500.0,3,0.0],[97650.0,1,0.0],[97800.0,0,0.0],[97950.0,1,0.0],[98100.0,3,0.0],[98250.0,2,0.0]],"altAnim":true},{"lengthInSteps":16,"mustHitSection":false,"sectionNotes":[[98400.0,0,0.0],[98550.0,1,0.0],[98700.0,3,0.0],[98850.0,1,0.0],[99000.0,0,0.0],[99150.0,1,0.0],[99300.0,3,0.0],[99450.0,2,0.0],[99600.0,3,0.0],[99750.0,0,0.0],[99900.0,3,0.0],[100050.0,1,0.0],[100200.0,3,0.0],[100350.0,1,0.0],[100500.0,2,0.0],[100650.0,0,0.0]],"altAnim":true},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[100800.0,7,600.0],[100800.0,0,0.0],[100950.0,1,0.0],[101100.0,3,0.0],[101250.0,1,0.0],[101400.0,0,0.0],[101550.0,1,0.0],[101700.0,3,0.0],[101850.0,2,0.0],[102000.0,0,0.0],[102150.0,1,0.0],[102300.0,3,0.0],[102450.0,1,0.0],[102600.0,0,0.0],[102750.0,1,0.0],[102900.0,3,0.0],[103050.0,2,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[103200.0,0,0.0],[103350.0,1,0.0],[103500.0,3,0.0],[103650.0,1,0.0],[103800.0,0,0.0],[103950.0,1,0.0],[104100.0,3,0.0],[104250.0,2,0.0],[104400.0,3,0.0],[104550.0,0,0.0],[104700.0,3,0.0],[104850.0,1,0.0],[105000.0,3,0.0],[105150.0,1,0.0],[105300.0,2,0.0],[105450.0,0,0.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[[105600.0,3,600.0]]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[]},{"lengthInSteps":16,"mustHitSection":true,"sectionNotes":[]}]},"generatedBy":"SNIFF ver.6"}
+{
+	"song": {
+		"speed": 3,
+		"stage": "limo",
+		"player1": "senpai",
+		"player2": "spooky",
+		"player3": "gfvoid",
+		"events": [],
+		"notes": [
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						9391.30434782609,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						9521.73913043478,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						9652.17391304348,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						9782.60869565218,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						9913.04347826087,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						10043.4782608696,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						10173.9130434783,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						10304.347826087,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						10434.7826086957,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						10565.2173913043,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						10695.652173913,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						10826.0869565217,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						10956.5217391304,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						11086.9565217391,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						11217.3913043478,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						11347.8260869565,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						11478.2608695652,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						11608.6956521739,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						11739.1304347826,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						11869.5652173913,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						12000,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						12130.4347826087,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						12260.8695652174,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						12391.3043478261,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						12521.7391304348,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						12652.1739130435,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						12782.6086956522,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						12913.0434782609,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						13043.4782608696,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						13173.9130434783,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						13304.347826087,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						13434.7826086957,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						13565.2173913044,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						13695.652173913,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						13826.0869565217,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						13956.5217391304,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						14086.9565217391,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						14217.3913043478,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						14347.8260869565,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						14478.2608695652,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						14608.6956521739,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						14739.1304347826,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						14869.5652173913,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						15000,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						15130.4347826087,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						15260.8695652174,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						15391.3043478261,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						15521.7391304348,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						15652.1739130435,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						15782.6086956522,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						15913.0434782609,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						16043.4782608696,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						16173.9130434783,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						16304.347826087,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						16434.7826086957,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						16565.2173913044,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						16695.652173913,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						16826.0869565217,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						16956.5217391304,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						17086.9565217391,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						17217.3913043478,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						17347.8260869565,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						17478.2608695652,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						17608.6956521739,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						17739.1304347826,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						17869.5652173913,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						18000,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						18130.4347826087,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						18260.8695652174,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						18391.3043478261,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						18521.7391304348,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						18652.1739130435,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						18782.6086956522,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						18913.0434782609,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						19043.4782608696,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						19173.9130434783,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						19304.347826087,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						19434.7826086957,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						19565.2173913043,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						19695.652173913,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						19826.0869565217,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						19956.5217391304,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						20086.9565217391,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						20217.3913043478,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						20347.8260869565,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						20478.2608695652,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						20608.6956521739,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						20739.1304347826,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						20869.5652173913,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						21000,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						21130.4347826087,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						21260.8695652174,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						21391.3043478261,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						21521.7391304348,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						21652.1739130435,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						21782.6086956522,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						21913.0434782609,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						22043.4782608696,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						22173.9130434783,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						22304.347826087,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						22434.7826086957,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						22565.2173913043,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						22695.652173913,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						22826.0869565217,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						22956.5217391304,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						23086.9565217391,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						23217.3913043478,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						23347.8260869565,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						23478.2608695652,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						23608.6956521739,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						23739.1304347826,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						23869.5652173913,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						24000,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						24130.4347826087,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						24260.8695652174,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						24391.3043478261,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						24521.7391304348,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						24652.1739130435,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						24782.6086956522,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						24913.0434782609,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						25043.4782608696,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						25173.9130434783,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						25304.347826087,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						25434.7826086956,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						25565.2173913043,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						25695.652173913,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						25826.0869565217,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						25956.5217391304,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						26086.9565217391,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						26217.3913043478,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						26347.8260869565,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						26478.2608695652,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						26608.6956521739,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						26739.1304347826,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						26869.5652173913,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						27000,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						27130.4347826087,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						27260.8695652174,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						27391.3043478261,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						27521.7391304348,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						27652.1739130435,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						27782.6086956522,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						27913.0434782609,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						28043.4782608696,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						28173.9130434783,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						28304.3478260869,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						28434.7826086956,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						28565.2173913043,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						28695.652173913,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						28826.0869565217,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						28956.5217391304,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						29086.9565217391,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						29217.3913043478,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						29347.8260869565,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						29478.2608695652,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						29608.6956521739,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						29739.1304347826,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						29869.5652173913,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						30000,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						30130.4347826087,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						30260.8695652174,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						30391.3043478261,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						30521.7391304348,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						30652.1739130435,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						30782.6086956522,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						30913.0434782609,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						31043.4782608696,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						31173.9130434782,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						31304.3478260869,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						31434.7826086956,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						31565.2173913043,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						31695.652173913,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						31826.0869565217,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						31956.5217391304,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						32086.9565217391,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						32217.3913043478,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						32347.8260869565,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						32478.2608695652,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						32608.6956521739,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						32739.1304347826,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						32869.5652173913,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						33000,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						33130.4347826087,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						33260.8695652174,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						33391.3043478261,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						33521.7391304348,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						33652.1739130435,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						33782.6086956522,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						33913.0434782609,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						34043.4782608696,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						34173.9130434782,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						34304.3478260869,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						34434.7826086956,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						34565.2173913043,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						34695.652173913,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						34826.0869565217,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						34956.5217391304,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						35086.9565217391,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						35217.3913043478,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						35347.8260869565,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						35478.2608695652,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						35608.6956521739,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						35739.1304347826,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						35869.5652173913,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						36000,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						36130.4347826087,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						36260.8695652174,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						36391.3043478261,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						36521.7391304348,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						36652.1739130435,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						36782.6086956522,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						36913.0434782609,
+						3,
+						0,
+						"Sword Note"
+					],
+					[
+						37043.4782608696,
+						0,
+						0,
+						"Sword Note"
+					],
+					[
+						37173.9130434783,
+						1,
+						0,
+						"Sword Note"
+					],
+					[
+						37304.347826087,
+						2,
+						0,
+						"Sword Note"
+					],
+					[
+						37434.7826086956,
+						3,
+						0,
+						"Sword Note"
+					]
+				],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 230,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"splashSkin": "noteSplashes",
+		"forcedChar": true,
+		"validScore": false,
+		"gfVersion": "gf-train",
+		"bpm": 230,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Standing Here"
+	}
+}

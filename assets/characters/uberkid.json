@@ -1,209 +1,163 @@
 {
-	"animations": [
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "UberKidIdle",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13
-			]
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle-pissed",
-			"fps": 24,
-			"name": "UberKidIdlePISSED",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13
-			]
-		},
-		{
-			"loop": false,
-			"offsets": [
-				91,
-				-7
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "UberKidsLeft",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-6,
-				30
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "UberKidUp",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-60,
-				-45
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "UberKidRight",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-12,
-				-56
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "UberKidDown",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				50,
-				7
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "UberKidTaunt",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				15
-			],
-			"anim": "reaction",
-			"fps": 24,
-			"name": "UberKidReaction",
-			"indices": []
-		},
-		{
-			"offsets": [
-				746,
-				144
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "shot",
-			"indices": [
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15,
-				16,
-				17,
-				18,
-				18,
-				18,
-				18,
-				18,
-				18,
-				18,
-				18,
-				18,
-				18,
-				18,
-				18,
-				18,
-				18
-			],
-			"name": "UberKidDies"
-		},
-		{
-			"offsets": [
-				105,
-				-5
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "punch",
-			"indices": [],
-			"name": "UberKidGonnaPunch"
-		},
-		{
-			"offsets": [
-				105,
-				-5
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "punch-loop",
-			"indices": [
-				16,
-				16
-			],
-			"name": "UberKidGonnaPunch"
-		}
-	],
-	"no_antialiasing": false,
-	"image": "characters/uberkid",
-	"position": [
-		0,
-		270
-	],
-	"healthicon": "uberkid",
-	"flip_x": false,
-	"healthbar_colors": [
-		40,
-		95,
-		168
-	],
-	"camera_position": [
-		20,
-		80
-	],
-	"sing_duration": 6.1,
-	"scale": 1
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        -9,
+        63
+      ],
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "tiky singup"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "tiky idle"
+    },
+    {
+      "offsets": [
+        108,
+        32
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "tiky left"
+    },
+    {
+      "offsets": [
+        55,
+        15
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "tiky down"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        277,
+        598
+      ],
+      "fps": 24,
+      "anim": "scream",
+      "indices": [],
+      "name": "tiky up-alt"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        277,
+        598
+      ],
+      "fps": 24,
+      "anim": "hurt",
+      "indices": [],
+      "name": "tiky up-alt"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        277,
+        595
+      ],
+      "fps": 24,
+      "anim": "hey",
+      "indices": [],
+      "name": "tiky up-alt"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        275,
+        597
+      ],
+      "fps": 24,
+      "anim": "land",
+      "indices": [],
+      "name": "tiky land"
+    },
+    {
+      "offsets": [
+        145,
+        -26
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "tiky right"
+    },
+    {
+      "offsets": [
+        -7,
+        53
+      ],
+      "indices": [],
+      "fps": 18,
+      "anim": "wait",
+      "loop": false,
+      "name": "tiky holup"
+    },
+    {
+      "offsets": [
+        -7,
+        53
+      ],
+      "indices": [
+        "11",
+        "12",
+        "13"
+      ],
+      "fps": 18,
+      "anim": "fall",
+      "loop": false,
+      "name": "tiky holup"
+    },
+    {
+      "offsets": [
+        0,
+        -19
+      ],
+      "indices": [
+        0,
+        1,
+        2
+      ],
+      "fps": 24,
+      "anim": "go",
+      "loop": false,
+      "name": "tiky land"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/uberkid",
+  "position": [
+    15,
+    374
+  ],
+  "healthicon": "tord",
+  "flip_x": false,
+  "healthbar_colors": [
+    34,
+    156,
+    83
+  ],
+  "camera_position": [
+    -230,
+    -430
+  ],
+  "sing_duration": 6.1,
+  "scale": 1.4
 }
