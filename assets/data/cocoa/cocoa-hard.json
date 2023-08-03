@@ -4,7 +4,7 @@
 		"stage": "limo",
 		"player1": "senpai",
 		"player2": "spooky",
-		"player3": "gfvoid",
+		"player3": "gf-christmas",
 		"events": [],
 		"notes": [
 			{
@@ -1734,10 +1734,10 @@
 		"splashSkin": "noteSplashes",
 		"forcedChar": true,
 		"validScore": false,
-		"gfVersion": "gf-train",
+		"gfVersion": "gf-christmas",
 		"bpm": 230,
 		"arrowSkin": "",
 		"needsVoices": false,
-		"song": "Standing Here"
+		"song": "Cocoa"
 	}
 }
