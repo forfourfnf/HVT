@@ -1,158 +1,188 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				0,
-				0
-			],
 			"loop": false,
-			"anim": "idle",
-			"fps": 24,
-			"name": "Mom Idle",
-			"indices": []
-		},
-		{
 			"offsets": [
-				250,
-				-23
+				166,
+				127
 			],
-			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Mom Left Pose",
+			"name": "Left pose0",
 			"indices": []
 		},
 		{
-			"offsets": [
-				10,
-				-60
-			],
 			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Mom Pose Left",
-			"indices": []
-		},
-		{
 			"offsets": [
-				20,
-				-160
+				-11,
+				190
 			],
-			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "MOM DOWN POSE",
-			"indices": []
-		},
-		{
-			"offsets": [
-				14,
-				71
-			],
-			"loop": false,
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Mom Up Pose",
+			"name": "Up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				127
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				99
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Kya",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				135
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				5
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				129
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				192
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				156
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				158,
+				108
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				104
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "gf dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				183,
+				-42
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "gf ded loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				187,
+				-31
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "gf ded confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down pose",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				0
+				72,
+				136
 			],
-			"indices": [
-				10,
-				11,
-				12,
-				13
-			],
-			"fps": 24,
-			"anim": "idle-loop",
 			"loop": true,
-			"name": "Mom Idle"
-		},
-		{
-			"offsets": [
-				250,
-				-23
-			],
-			"indices": [
-				6,
-				7,
-				8,
-				9
-			],
 			"fps": 24,
-			"anim": "singLEFT-loop",
-			"loop": true,
-			"name": "Mom Left Pose"
-		},
-		{
-			"offsets": [
-				14,
-				71
-			],
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			],
-			"fps": 24,
-			"anim": "singUP-loop",
-			"loop": true,
-			"name": "Mom Up Pose"
-		},
-		{
-			"offsets": [
-				10,
-				-60
-			],
-			"indices": [
-				6,
-				7,
-				8,
-				9
-			],
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"loop": true,
-			"name": "Mom Pose Left"
-		},
-		{
-			"offsets": [
-				20,
-				-160
-			],
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			],
-			"fps": 24,
-			"anim": "singDOWN-loop",
-			"loop": true,
-			"name": "MOM DOWN POSE"
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/momCar",
 	"position": [
 		0,
-		0
+		290
 	],
-	"healthicon": "mom",
-	"flip_x": false,
+	"healthicon": "spirit-pixel",
+	"flip_x": true,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		76,
+		8,
+		8
 	],
 	"camera_position": [
 		0,
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.2
 }

@@ -1,14 +1,10 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
-				0
+				41
 			],
-			"anim": "danceLeft",
-			"fps": 24,
-			"name": "GF IDLE",
 			"indices": [
 				30,
 				0,
@@ -26,17 +22,17 @@
 				12,
 				13,
 				14
-			]
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "bop"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
-				0
+				41
 			],
-			"anim": "danceRight",
-			"fps": 24,
-			"name": "GF IDLE",
 			"indices": [
 				15,
 				16,
@@ -53,25 +49,40 @@
 				27,
 				28,
 				29
-			]
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "bop"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-9,
+				29
 			],
-			"anim": "singUP",
+			"indices": [],
 			"fps": 24,
-			"name": "GF IDLE",
-			"indices": []
+			"anim": "sad",
+			"loop": false,
+			"name": "cry"
+		},
+		{
+			"offsets": [
+				-41,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "dodge"
 		}
 	],
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/gfPixel",
 	"position": [
 		0,
-		0
+		60
 	],
 	"healthicon": "gf",
 	"flip_x": false,
@@ -81,9 +92,9 @@
 		77
 	],
 	"camera_position": [
-		-20,
-		80
+		-150,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 5.99999999999999
+	"scale": 1
 }

@@ -1,122 +1,100 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
-				0
+				-9
 			],
+			"loop": false,
 			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "Pico Idle Dance"
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				65,
-				9
+				0,
+				-9
 			],
+			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Pico Note Right0"
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-68,
-				-7
+				19,
+				-5
 			],
+			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "sad",
 			"indices": [],
-			"name": "Pico NOTE LEFT0"
+			"name": "miss"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-60,
-				41
+				-4,
+				10
 			],
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "Pico NOTE LEFT miss"
-		},
-		{
 			"loop": false,
-			"offsets": [
-				62,
-				64
-			],
 			"fps": 24,
-			"anim": "singLEFTmiss",
+			"anim": "cheer",
 			"indices": [],
-			"name": "Pico Note Right Miss"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-29,
-				27
-			],
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "pico Up note0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				200,
-				-70
-			],
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Pico Down Note0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				210,
-				-28
-			],
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "Pico Down Note MISS"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-19,
-				67
-			],
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "pico Up note miss"
+			"name": "cheer"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Pico_FNF_assetss",
 	"position": [
-		0,
-		300
+		40,
+		190
 	],
-	"healthicon": "pico",
-	"flip_x": true,
+	"healthicon": "bf",
+	"flip_x": false,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		49,
+		176,
+		209
 	],
 	"camera_position": [
 		0,
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.9
 }
