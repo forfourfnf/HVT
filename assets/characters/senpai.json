@@ -74,7 +74,7 @@
       ],
       "anim": "attack1",
       "fps": 24,
-      "name": "P-Hank ATK 1",
+      "name": "Attack",
       "indices": []
     },
     {
@@ -96,7 +96,7 @@
       ],
       "anim": "block",
       "fps": 24,
-      "name": "P-Hank Block",
+      "name": "Block",
       "indices": []
     },
     {

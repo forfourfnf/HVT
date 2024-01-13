@@ -53,7 +53,7 @@
 			"fps": 24,
 			"anim": "hurt",
 			"indices": [],
-			"name": "Conductric Hurt"
+			"name": "Hurt"
 		},
 		{
 			"loop": true,
@@ -86,7 +86,7 @@
 			"fps": 24,
 			"anim": "attack1",
 			"loop": false,
-			"name": "Conductric M ATK1"
+			"name": "Attack"
 		},
 		{
 			"offsets": [
@@ -97,7 +97,7 @@
 			"fps": 24,
 			"anim": "block",
 			"loop": false,
-			"name": "Conductric M DEF"
+			"name": "Block"
 		}
 	],
 	"no_antialiasing": false,
